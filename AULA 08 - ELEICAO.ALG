@@ -1,6 +1,7 @@
 Algoritmo "Aula 08 - eleicao"
 
 
+
 Var
    total, acumulador, voto_nulo, voto_branco, voto_valido : inteiro
    percentual_nulo, percentual_branco, percentual_valido : real
